@@ -1,4 +1,4 @@
-# Using AI tools for research
+# Towards more life-course-sensitive decompositions of group-inequalities: Two approaches applied to the Gender Pension Gap
 
 Carla Rowold
 <carla.rowold@nuffield.ox.ac.uk>
